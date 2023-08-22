@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+  	<Text>RAA_vALL_MODULE_03 - Option_1_HardCoded</Text>
+  	<Description>Some description for RAA_vALL_MODULE_03</Description>
+  	<Assembly>RAA_vALL_MODULE_03.dll</Assembly>
+  	<FullClassName>RAA_vALL_MODULE_03.Option_1_HardCoded</FullClassName>
+  	<ClientId>EA082CD6-88FD-4AEB-B16B-7EE37E1F2529</ClientId>
+  	<VendorId>com.YOUR COMPANY NAME</VendorId>
+  	<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+  	<Text>RAA_vALL_MODULE_03 - Option_1_HardCoded_Class</Text>
+  	<Description>Some description for RAA_vALL_MODULE_03</Description>
+  	<Assembly>RAA_vALL_MODULE_03.dll</Assembly>
+  	<FullClassName>RAA_vALL_MODULE_03.Option_1_HardCoded_Class</FullClassName>
+  	<ClientId>243675A5-270A-48F8-A467-0544ECBF2818</ClientId>
+  	<VendorId>com.YOUR COMPANY NAME</VendorId>
+  	<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_vALL_MODULE_03 - Command 2</Text>
+    <Description>Some description for RAA_vALL_MODULE_03</Description>
+    <Assembly>RAA_vALL_MODULE_03.dll</Assembly>
+    <FullClassName>RAA_vALL_MODULE_03.Command2</FullClassName>
+    <ClientId>a9490326-fb0c-4f44-a5dd-723e7251faaf</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_vALL_MODULE_03</Name>
+    <Assembly>RAA_vALL_MODULE_03.dll</Assembly>
+    <FullClassName>RAA_vALL_MODULE_03.App</FullClassName>
+    <ClientId>7826a431-800d-4cd4-bb9c-30ac89bbe91c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
